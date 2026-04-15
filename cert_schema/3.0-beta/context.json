@@ -41,8 +41,6 @@
     "name": { "@id": "schema:name" },
     "description": { "@id": "schema:description" },
     "email": { "@id": "schema:email" },
-    "publicKey": { "@id": "sec:publicKey", "@type": "@id" },
-    "url": { "@id": "schema:url", "@type": "@id" },
-    "image": { "@id": "schema:image", "@type": "@id" }
+    "publicKey": { "@id": "sec:publicKey", "@type": "@id" }
   }
 }
